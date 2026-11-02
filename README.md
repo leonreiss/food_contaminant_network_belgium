@@ -1,4 +1,5 @@
 # Food contaminant exposure network for Belgium
+[![View in Colab](https://img.shields.io/badge/View_in-Colab-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/leonreiss/food_contaminant_network_belgium/blob/main/food_contaminant_network_belgium.ipynb)
 
 A small project exploring how public EFSA data can be turned into a network of contaminants, foods and consumers.
 
