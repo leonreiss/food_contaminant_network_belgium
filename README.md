@@ -20,11 +20,12 @@ The notebook builds the raw tables of a directed, weighted tripartite network [K
 
 ## Major findings
 
-- **Most of the network is unknown.** Of the 232 possible pairs of contaminant and food group, 148 (64%) were never measured, 29 have results below the LOQ only, and just 55 have at least one measured value.
-- **Censoring dominates.** 89.9% of the 127,543 Belgian results are below the LOQ and only 5.3% are measured values. Even for the eight contaminants, about two thirds of the results are censored.
-- **The data sources do not fit together directly.** Samples are coded as specific foods ("Strawberries"), consumption as broader groups ("Strawberries and similar-"), so only 9 of the 30 foods match by name. Linking at Level 4 turns the 30 foods into 29 food groups.
-- **Consumption gaps cut key paths.** 7 of the 29 groups have no consumption data in the 2014 survey, e.g. pig kidney, infant foods and French fries, which were probably recorded as potatoes. Only one of the four food groups with acrylamide results is linked to consumers.
-
+- **Most of the network is unknown:** Of the 232 possible pairs of contaminant and food group, 148 (64%) were never measured, 29 have results below the LOQ only, and just 55 have at least one measured value.
+- **Censoring dominates:** 89.9% of the 127,543 Belgian results are below the LOQ and only 5.3% are measured values. Even for the eight contaminants, about two thirds of the results are censored.
+- **The data sources do not fit together directly:** Samples are coded as specific foods ("Strawberries"), consumption as broader groups ("Strawberries and similar-"), so only 9 of the 30 foods match by name. Linking at Level 4 turns the 30 foods into 29 food groups.
+**Consumption data are incomplete:** 7 of the 29 groups have no consumption data in the 2014 survey (see network figure).
 
 <img src="network.png" alt="Raw network for Belgium: contaminants, food groups and population groups" width="550">
 *Left: 8 contaminants, middle: 29 food groups, right: 3 population groups. Orange lines are occurrence edges with at least one measured value, grey dashed lines have results below the LOQ only, and missing lines mean the pair was never measured. Blue lines are consumption edges, their width shows the amount eaten in g/kg bw per day. The food groups at the bottom have no consumption data.*
+
+
