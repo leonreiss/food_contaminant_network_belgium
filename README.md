@@ -44,7 +44,7 @@ These ideas build on [Kivelä et al. (2014)](https://doi.org/10.1093/comnet/cnu0
 
 ### Beyond the available data
 
-- **Before the plate:** Scientific evidence on how contaminants move from soil, water and feed into crops and animals, and how processing such as peeling, cooking or frying changes their levels, could add layers before the food groups and inform the priors of the Bayesian model.
+- **On the way to the plate:** Many foods eaten in Belgium are imported, often through trade hubs such as the Netherlands. The share of imports per food group could add a trade layer between production and the food groups, building on [Ercsey-Ravasz et al. (2012)](https://doi.org/10.1371/journal.pone.0037810), who model how contaminants spread on the international agro-food trade network.
 - **After the plate:** Knowledge on how much of a contaminant the body actually absorbs, other sources such as drinking water or smoking, combined effects of contaminants that harm the same organ, and the nutritional benefits of foods like fish could extend the network towards health outcomes and make it more useful for regulatory decisions.
 
 **License:** Code under the MIT License. The data keep their original licenses: CC BY 4.0 for the Zenodo records, EFSA's terms of use for the consumption export.
